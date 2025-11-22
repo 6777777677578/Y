@@ -12,6 +12,7 @@
     "pino": "^8.15.0",
     "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
-    "user-agent": "^1.0.4"
+    "user-agent": "^1.0.4",
+    "express": "^4.19.2"
   }
 }
